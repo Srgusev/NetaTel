@@ -15,7 +15,7 @@ g(x) = х3+ х + 1
 
 ----------------------------------------------------------------------------------------------
 
-# Networks and telecommunications:electric _ plug:  
+# Networks and telecommunications:electric_plug:  
 Implementation of DZ No. 2 on the subject of "Networks and Telecommunications"  
 Teacher: Galkin V. A. galkin@bmstu.ru:email:  
 Labnik: Antonov A.I. artem.antonov@bmstu.ru:email:  
